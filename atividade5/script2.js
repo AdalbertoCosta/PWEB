@@ -1,0 +1,13 @@
+alert('Dois numeros');
+let numero1, numero2;
+numero1 = prompt('');
+numero1 = +numero1;
+numero2 = prompt('');
+numero2 = +numero2;
+let soma, subtracao, produto, divisao, resto;
+soma = numero1 + numero2;
+subtracao = numero1 - numero2;
+produto = numero1 * numero2;
+divisao = numero1 / numero2;
+resto = numero1 % numero2;
+alert(`soma ${soma} subtracao ${subtracao} produto ${produto} divisao ${divisao} resto ${resto}`);
