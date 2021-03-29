@@ -1,0 +1,26 @@
+body{
+    font:20px Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.margin{
+    padding-bottom:50px;
+    padding-top:10px;
+ }
+
+ img{
+    display:block;
+    align-items: center;
+    margin: 20px auto;
+ }
+.capa{
+    min-height: 900px;
+}
+.logo img{
+    width: 100%;
+}
+
+.dados{
+    padding-top: 450px;
+}
